@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lavollmer
 - 👀 I’m passionate about software development and creating innovative solutions.
-- 🌱 I’m currently learning Javascript, HTML, CSS web development.
+- 🌱 I am knowledgeable in Javascript, HTML, MERN Stack, React, Chakra UI and CSS web development.
 - 💞️ I’m looking to collaborate on exciting web development projects and contribute to the tech community.
 - 📫 How to reach me: personal email or LinkedIn (see my Github bio for more details).
 - 😄 Pronouns: she/her/hers

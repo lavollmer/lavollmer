@@ -2,7 +2,7 @@
 - 👀 I’m passionate about software development and creating innovative solutions.
 - 🌱 I’m currently learning Javascript, HTML, CSS web development.
 - 💞️ I’m looking to collaborate on exciting web development projects and contribute to the tech community.
-- 📫 How to reach me email or LinkedIn (see my Github bio).
+- 📫 How to reach me: personal email or LinkedIn (see my Github bio for more details).
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I helped co-coordinate the Guinness World Record Largest Custard Pie Fight.
 
